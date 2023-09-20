@@ -17,10 +17,10 @@ The aim of this project is to delve into Irish crime trends and present straight
 * Central statistics office 
 [Website](https://www.cso.ie/en)
 <br>
-## Data storage
+# Data storage
 * Local machine files
 <br>
-## programming technologies: 
+# programming technologies: 
 <br>
 * Python 3
 * HTML
