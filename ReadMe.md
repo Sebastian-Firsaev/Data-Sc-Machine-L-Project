@@ -13,8 +13,9 @@ Find more information about me here:
 # Portfolio Content 
 The aim of this project is to delve into Irish crime trends and present straightforward statistical data and forecasts for the public, highlighting the crime rate in Ireland. Create user-friendly, interactive charts and graphs to visualize crime statistics, making it easier for the public to grasp the trends. I will attempt to utilize machine learning to anticipate upcoming crime hotspots and their corresponding rates.
 <br>
-## Infrastructure 
-* Placeholder
+## Data Source
+* Central statistics office 
+[Website](https://www.cso.ie/en)
 <br>
 ## Data storage
 * Local machine files
@@ -29,5 +30,7 @@ The aim of this project is to delve into Irish crime trends and present straight
 * git 
 * Python 3
 * Flask
+
+
 
 
