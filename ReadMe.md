@@ -1,31 +1,32 @@
-# Welcome to my GitHub Repository for Data Science Y4
-## Navigation 
+# Data Science Y4 Project Portfolio 
+## Portfolio Content  
 - [About](#About) 
 - [Skills](#Skills)
-- [Portfolio Content](#PortfolioContent)        
-- [technologies](##programmingtechnologies:) 
-- [Project 1](#Project1)
-- [Project 2](#Project2)
-- [Project 3](#Project3)
+- [Technologies](##programmingtechnologies) 
+- [Professional Project](#ProfessionalProjects)
+- [Project 1](##Project1)
+- [Project 2](##Project2)
+- [Project 3](##Project3)
+- [Personal Projects](#PersonalProjects)
 # About 
 Sebastian Firsaev<br>
 Final Year BSc Student <br>
 
 Find more information about me here:
 <br>
-[Github](https://github.com/Sebastian-Firsaev)
+- [Github](https://github.com/Sebastian-Firsaev)
 <br>
-[LinkedIn](https://www.linkedin.com/in/sebfirs/)
+- [LinkedIn](https://www.linkedin.com/in/sebfirs/)
 <br>
 # Skills
 
-# Portfolio Content 
-The aim of this project is to delve into Irish crime trends and present straightforward statistical data and forecasts for the public, highlighting the crime rate in Ireland. Create user-friendly, interactive charts and graphs to visualize crime statistics, making it easier for the public to grasp the trends. I will attempt to utilize machine learning to anticipate upcoming crime hotspots and their corresponding rates.
-<br>
-
-## programming technologies: 
 
 <br>
+
+# Programming technologies
+
+* Java
+* C++
 * Python 3
 * HTML
 * CSS
@@ -35,19 +36,46 @@ The aim of this project is to delve into Irish crime trends and present straight
 * Python 3
 * Flask
 
-## Data Source
-* Central statistics office 
-[Website](https://www.cso.ie/en)
-<br>
 ## Data storage
-* Local machine files
+* Local machine Storage 
+* Cloud
 <br>
 
-# Project 1
+# Professional Projects 
+## Project 1
+- Brief description of the project
+- Link to project
+- Technologies used 
+- Data sets
+- Methodology 
+- Challenges 
 
-# Project 2
+## Project 2
+- Brief description of the project
+- Link to project
+- Technologies used 
+- Data sets
+- Methodology 
+- Challenges 
 
-# Project 3
+## Project 3
+- Brief description of the project
+- Link to project
+- Technologies used 
+- Data sets
+- Methodology 
+- Challenges 
+
+# Professional Projects 
+- Brief description of the project
+- Link to project
+- Technologies used 
+- Data sets
+- Methodology 
+- Challenges 
+
+
+
 
 
 
