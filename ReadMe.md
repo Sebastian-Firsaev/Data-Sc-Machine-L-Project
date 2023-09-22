@@ -8,6 +8,7 @@
 - [Project 2](##Project2)
 - [Project 3](##Project3)
 - [Personal Projects](#PersonalProjects)
+
 # About 
 Sebastian Firsaev<br>
 Final Year BSc Student <br>
@@ -16,7 +17,7 @@ Find more information about me here:
 <br>
 - [Github](https://github.com/Sebastian-Firsaev)
 - [LinkedIn](https://www.linkedin.com/in/sebfirs/)
-<br>
+
 # Skills
 
 
