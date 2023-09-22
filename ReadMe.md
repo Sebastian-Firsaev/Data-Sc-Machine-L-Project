@@ -15,7 +15,6 @@ Final Year BSc Student <br>
 Find more information about me here:
 <br>
 - [Github](https://github.com/Sebastian-Firsaev)
-<br>
 - [LinkedIn](https://www.linkedin.com/in/sebfirs/)
 <br>
 # Skills
