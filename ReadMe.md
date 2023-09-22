@@ -7,7 +7,7 @@
 - [Project 1](##Project1)
 - [Project 2](##Project2)
 - [Project 3](##Project3)
-- [Personal Projects](#PersonalProjects)
+- [Personal Projects](#Personal-Projects)
 # About 
 Sebastian Firsaev<br>
 Final Year BSc Student <br>
