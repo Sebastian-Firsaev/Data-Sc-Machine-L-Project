@@ -3,11 +3,11 @@
 - [About](#About) 
 - [Skills](#Skills)
 - [Technologies](##programmingtechnologies) 
-- [Professional Project](#ProfessionalProjects)
+- [Professional Project](#Professional-Projects)
 - [Project 1](##Project1)
 - [Project 2](##Project2)
 - [Project 3](##Project3)
-- [Personal Projects](#Personal-Projects)
+- [Personal Projects](#PersonalProjects)
 # About 
 Sebastian Firsaev<br>
 Final Year BSc Student <br>
@@ -65,7 +65,7 @@ Find more information about me here:
 - Methodology 
 - Challenges 
 
-# Professional Projects 
+# Personal Projects 
 - Brief description of the project
 - Link to project
 - Technologies used 
