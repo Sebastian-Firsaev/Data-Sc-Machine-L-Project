@@ -70,7 +70,6 @@ Find more information about me here:
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
 - **Challenges:** Highlight any difficulties encountered.
-- **Presentation Quality:**
 
 ## Project 3
 - **Introduction:** Clear problem statement and context.
@@ -81,7 +80,6 @@ Find more information about me here:
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
 - **Challenges:** Highlight any difficulties encountered.
-- **Presentation Quality:**
 
 # Personal Projects 
 - **Introduction:** Clear problem statement and context.
@@ -92,7 +90,6 @@ Find more information about me here:
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
 - **Challenges:** Highlight any difficulties encountered.
-- **Presentation Quality:**
 
 
 # Certifications  
