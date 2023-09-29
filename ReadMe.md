@@ -11,7 +11,6 @@ Find more information about me here:
 
 ## Portfolio Content  
 - [About](#about) 
-- [Education](#education)
 - [Skills](#skills)
 - [Programming Technologies](#programming-technologies) 
 - [Data Storage](#data-storage)
@@ -23,17 +22,12 @@ Find more information about me here:
 
 - [Certifications](#certifications) 
 
-# Education
-- Bachelor of Science in Data Science
-  - University Name
-  - Graduation Date: Month, Year
 
 # Skills
 * Programming
 * Data Analysis
 * Data Visualization
 * Machine Learning
-* Big Data
 * Statistical Analysis
 * Data Cleaning
 * Data Wrangling
