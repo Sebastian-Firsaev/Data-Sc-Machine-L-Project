@@ -1,5 +1,14 @@
 # Data Science Y4 Project Portfolio 
 
+# About 
+Sebastian Firsaev<br>
+The purpose of this portfolio is to showcase my journey as a final-year BSc Data Science student and to provide a comprehensive overview of my skills, experiences, and projects.
+It serves as a digital representation of my capabilities, highlighting my proficiency in programming languages, data analysis, and various data science technologies. <br>
+
+Find more information about me here:
+- [GitHub](https://github.com/Sebastian-Firsaev)
+- [LinkedIn](https://www.linkedin.com/in/sebfirs/)
+
 ## Portfolio Content  
 - [About](#about) 
 - [Education](#education)
@@ -13,16 +22,6 @@
 - [Personal Projects](#personal-projects)
 
 - [Certifications](#certifications) 
-
-
-# About 
-Sebastian Firsaev<br>
-The purpose of this portfolio is to showcase my journey as a final-year BSc Data Science student and to provide a comprehensive overview of my skills, experiences, and projects. <br>
-It serves as a digital representation of my capabilities, highlighting my proficiency in programming languages, data analysis, and various data science technologies. <br>
-
-Find more information about me here:
-- [GitHub](https://github.com/Sebastian-Firsaev)
-- [LinkedIn](https://www.linkedin.com/in/sebfirs/)
 
 # Education
 - Bachelor of Science in Data Science
