@@ -9,7 +9,8 @@ Find more information about me here:
 - [LinkedIn](https://www.linkedin.com/in/sebfirs/)
 
 ## Portfolio Content  
-- [About](#about) 
+- [About](#about)
+- [Introduction](#Introduction)
 - [Skills](#skills)
 - [Programming Technologies](#programming-technologies) 
 - [Data Storage](#data-storage)
