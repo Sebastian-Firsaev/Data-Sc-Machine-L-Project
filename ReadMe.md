@@ -2,7 +2,8 @@
 
 # About 
 Sebastian Firsaev<br>
-Final year BSc Student at SETU Carlow Final with 5 years’ experience working in retail management and food manufacturing.<br>
+Final year BSc Student at SETU Carlow Final with 5 years’ experience working in retail management and food manufacturing.
+On track to Graduating in 2024<br>
 
 Find more information about me here:
 - [GitHub](https://github.com/Sebastian-Firsaev)
