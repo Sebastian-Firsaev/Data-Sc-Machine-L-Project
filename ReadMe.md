@@ -2,7 +2,7 @@
 
 # About 
 Sebastian Firsaev<br>
-The purpose of this portfolio is to showcase my journey as a final-year BSc Data Science student and to provide a comprehensive overview of my skills, experiences, and projects.
+The purpose of this portfolio is to showcase my journey as a final-year BSc Data Science SETU Carlow student and to provide a comprehensive overview of my skills, experiences, and projects.
 It serves as a digital representation of my capabilities, highlighting my proficiency in programming languages, data analysis, and various data science technologies. <br>
 
 Find more information about me here:
