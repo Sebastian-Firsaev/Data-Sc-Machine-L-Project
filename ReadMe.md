@@ -84,7 +84,7 @@ I am passionate about solving complex real-world problems through data analysis 
 - **Challenges:** Highlight any difficulties encountered.
 
 # Challenges Faced
-Description of biggest challanges faced in either academic of personal projects, with infomation on how i overcame these challenges and my possible solutions to avoid them in future.
+Description of biggest challanges faced in either academic or personal projects, with infomation on how I overcame these challenges and my possible solutions to avoid them in future.
 
 # Certifications  
 - Certification Name
