@@ -20,7 +20,7 @@ Find more information about me here:
   - [Project 2](#project-2)
   - [Project 3](#project-3)
 - [Personal Projects](#personal-projects)
-
+- [Challenges Faced](#Challenges-Faced)
 - [Certifications](#certifications) 
 
 # Introduction
@@ -56,9 +56,6 @@ I am passionate about solving complex real-world problems through data analysis 
 # Professional Projects 
 ## Project 1
 - **Introduction:** Clear problem statement and context.
-- **Background:** Justification of portfolio’s utility & significance.
-- **Proposed Portfolio Design:** Content of the portfolio includes data sets, tools, techniques, technologies, ethics, regulations, GDPR, etc.
-- **Opportunities & Challenges:** 
 - **Methodology:** Describe the approach taken.
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
@@ -67,9 +64,6 @@ I am passionate about solving complex real-world problems through data analysis 
 
 ## Project 2
 - **Introduction:** Clear problem statement and context.
-- **Background:** Justification of portfolio’s utility & significance.
-- **Proposed Portfolio Design:** Content of the portfolio includes data sets, tools, techniques, technologies, ethics, regulations, GDPR, etc.
-- **Opportunities & Challenges:** 
 - **Methodology:** Describe the approach taken.
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
@@ -77,9 +71,6 @@ I am passionate about solving complex real-world problems through data analysis 
 
 ## Project 3
 - **Introduction:** Clear problem statement and context.
-- **Background:** Justification of portfolio’s utility & significance.
-- **Proposed Portfolio Design:** Content of the portfolio includes data sets, tools, techniques, technologies, ethics, regulations, GDPR, etc.
-- **Opportunities & Challenges:** 
 - **Methodology:** Describe the approach taken.
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
@@ -87,14 +78,13 @@ I am passionate about solving complex real-world problems through data analysis 
 
 # Personal Projects 
 - **Introduction:** Clear problem statement and context.
-- **Background:** Justification of portfolio’s utility & significance.
-- **Proposed Portfolio Design:** Content of the portfolio includes data sets, tools, techniques, technologies, ethics, regulations, GDPR, etc.
-- **Opportunities & Challenges:** 
 - **Methodology:** Describe the approach taken.
 - **Technologies Used:** List the technologies utilized.
 - **Data Sets:** Mention the data sources.
 - **Challenges:** Highlight any difficulties encountered.
 
+# Challenges Faced
+Description of biggest challanges faced in either academic of personal projects, with infomation on how i overcame these challenges and my possible solutions to avoid them in future.
 
 # Certifications  
 - Certification Name
