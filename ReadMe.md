@@ -2,8 +2,7 @@
 
 # About 
 Sebastian Firsaev<br>
-The purpose of this portfolio is to showcase my journey as a final-year BSc Data Science SETU Carlow student and to provide a comprehensive overview of my skills, experiences, and projects.
-It serves as a digital representation of my capabilities, highlighting my proficiency in programming languages, data analysis, and various data science technologies. <br>
+Final year BSc Student at SETU Carlow Final with 5 years’ experience working in retail management and food manufacturing.<br>
 
 Find more information about me here:
 - [GitHub](https://github.com/Sebastian-Firsaev)
@@ -21,6 +20,9 @@ Find more information about me here:
 - [Personal Projects](#personal-projects)
 
 - [Certifications](#certifications) 
+
+# Introduction
+I am passionate about solving complex real-world problems through data analysis and machine learning. This portfolio serves as a platform to showcase my journey and accomplishments in the field of data science. I have undertaken various academic and practical projects that aim to address pressing issues by harnessing the power of data-driven insights. From predictive modeling to data visualization, I have explored diverse facets of the data science discipline. This portfolio will provide a detailed glimpse into my projects, skills, and experiences, emphasizing my commitment to data ethics and regulations, as well as my readiness to contribute to data-driven solutions in the professional arena.
 
 
 # Skills
