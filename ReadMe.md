@@ -121,7 +121,7 @@ plt.xticks(rotation=45)
 plt.grid()
 plt.show()
 
-<img src='graph1.png' width='600'>
+<img src='graph1.png' width='1000'>
 This initial visualization provides insights into how overall crime has varied over different quarters.
 
 Further Analysis:
@@ -141,7 +141,7 @@ plt.xticks(rotation=90)
 plt.grid(axis='y')
 plt.show()
 
-<img src='graph2.png' width='600'>
+<img src='graph2.png' width='1000'>
 This visualization allows us to discern how overall crime is distributed among different Garda Divisions in Ireland.
 
 ## Project 2
