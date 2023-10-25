@@ -18,7 +18,7 @@
 # About 
 Sebastian Firsaev<br>
 Final Year BSc Student <br>
-<img src='profile1.jpg' width='25'>)
+<img src='profile1.jpg' width='300'>)
 
 Find more information about me here:
 - [GitHub](https://github.com/Sebastian-Firsaev)
