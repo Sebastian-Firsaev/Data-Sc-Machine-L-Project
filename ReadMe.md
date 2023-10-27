@@ -116,11 +116,11 @@ Technologies: The portfolio incorporates Jupyter Notebook and Visual Studio Code
 This report presents an exploratory data analysis and visualization of Irish crime statistics. The objective is to gain insights into historical crime trends, focusing on overall crime regardless of type, and to examine how crime varies across different yearly quarters and Garda divisions in Ireland 2003-2023. This analysis is conducted using Python within a Jupyter Notebook environment.
 <br>
 
-Exploratory Data Analysis:
+**Exploratory Data Analysis:**
 
 To understand the historical trends of overall crime in Ireland, we initially focus on the distribution of crime by quarter. The following code snippet extracts the data for overall crime by quarter and creates a line plot using the Seaborn library.
 
-Sample Code:
+**Sample Code:**
 <br>
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -153,7 +153,7 @@ plt.show()
 <img src='graph1.png' width='1000'>
 This initial visualization provides insights into how overall crime has varied over different quarters.
 
-Further Analysis:
+**Further Analysis:**
 
 Continuing the analysis, the focus shifted to examining the distribution of overall crime by Garda Division, as different geographic regions may have varying crime rates. The code below groups the data by Garda Division and calculates the overall crime in each division. It creates a bar plot to visualize these results:
 
