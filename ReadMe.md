@@ -72,6 +72,7 @@ This project aims to offer valuable insights for law enforcement agencies, polic
 Overview: This dataset contains Irish crime statistics for the years 2003Q1 to 2023Q1.
 
 Data Source: data.gov.ie/cso.ie
+https://data.gov.ie/dataset/cjq01-recorded-crime-incidents-under-reservation
 
 Data Structure: The dataset consists of 161,029 rows and five columns
 
@@ -188,11 +189,15 @@ Predict future crime rates by county in Ireland using historical crime data.
 <br>
 explore the type of, and possible (Covid related) reasons behind the sharp increase in crime between 2020Q4 and 2022Q3.
 <br> 
+<img src='graph3.png' width='1000'>
+
+
 Cross-reference crime predictions with employment statistics to identify potential correlations:
 
 Second Data set: FY056B - Rates for Labour Force Participation and Unemployment 
 
 Source: data.gov.ie
+https://data.gov.ie/dataset/fy056b-rates-for-labour-force-participation-and-unemployment
 
 Data Structure: The dataset consists of 15625 rows and eight columns, 'Statistic Label', 'Census Year', 'County and City', 'Detailed Marital', 'Status', 'Age Group', 'Sex', 'UNIT', 'VALUE'. 
 
