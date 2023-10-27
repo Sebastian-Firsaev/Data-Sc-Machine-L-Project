@@ -26,8 +26,8 @@ Find more information about me here:
 
 # Education
 - Bachelor of Science in Data Science
-  - University Name
-  - Graduation Date: Month, Year
+  - University Name: SETU Carlow
+  - Graduation Date: 2024
 
 # Skills
 * Programming
