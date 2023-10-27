@@ -67,9 +67,9 @@ Find more information about me here:
 **Introduction:** 
 <br>
 
-This project is based on analysing and predicting Irish crime rates, which is a crucial area of interest in the context of law enforcement, public safety, and societal well-being. The primary objective is to harness data-driven insights to understand and predict future crime trends by geographic areas in Ireland. The dataset under consideration is sourced from www.cso.ie. 
+This project is based on analysing and predicting Irish crime rates, which is a crucial area of interest in the context of law enforcement, public safety, and societal well-being. The primary objective is to harness data-driven insights to understand and predict future crime trends and find out if the university have a major impact on crime within county Carlow. The dataset under consideration is sourced from www.cso.ie. 
 
-This project aims to offer valuable insights for law enforcement agencies, policymakers, and researchers. It seeks to answer questions related to the distribution of crime, its variation by type, and the potential influence of external factors, such as employment rates, on criminal tendencies. Understanding these patterns can assist in allocating resources effectively, implementing targeted crime prevention strategies, and enhancing overall public safety as well as demonstrate my knowledge and understanding of data science.
+This project aims to offer valuable insights for law enforcement agencies, policymakers, and researchers. It seeks to answer questions related to the distribution of crime, its variation by type, and the potential influence of external factors, such as Universities and employment rates, on criminal tendencies. Understanding these patterns can assist in allocating resources effectively, implementing targeted crime prevention strategies, and enhancing overall public safety as well as demonstrate my knowledge and understanding of data science.
 <br>
 
 **Data sets & Sources**
