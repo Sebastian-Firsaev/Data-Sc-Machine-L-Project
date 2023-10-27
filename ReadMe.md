@@ -7,7 +7,7 @@
 - [Programming Technologies](#programming-technologies) 
 - [Data Storage](#data-storage)
 - [Professional Projects](#professional-projects)
-  - [Irish crime project](#project-1)
+  - [Irish crime project](#Irish-Crime-Statistics)
   - [Project 2](#project-2)
   - [Project 3](#project-3)
 - [Personal Projects](#personal-projects)
