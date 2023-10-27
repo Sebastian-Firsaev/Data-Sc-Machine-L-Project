@@ -59,9 +59,11 @@ Find more information about me here:
 
 # Professional Projects 
 ## Irish Crime Statistics 
-**The question** 
+
 <br>
-Does the univerity in Carlow have an impact on crime in the county?
+**Does the univerity in Carlow have an impact on crime in the county?**
+<br>
+<br>
 <br>
 **Introduction:** 
 <br>
