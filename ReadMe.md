@@ -184,10 +184,24 @@ This visualization allows us to discern how overall crime is distributed among d
 
 **Planned Progression**
 
+Predict future crime rates by county in Ireland using historical crime data.
+<br>
+explore the type of, and possible (Covid related) reasons behind the sharp increase in crime between 2020Q4 and 2022Q3.
+<br> 
+Cross-reference crime predictions with employment statistics to identify potential correlations:
 
+Second Data set: FY056B - Rates for Labour Force Participation and Unemployment 
 
+Source: data.gov.ie
 
+Data Structure: The dataset consists of 15625 rows and eight columns, 'Statistic Label', 'Census Year', 'County and City', 'Detailed Marital', 'Status', 'Age Group', 'Sex', 'UNIT', 'VALUE'. 
 
+Usage and License: This dataset is publicly available for research and analysis from the central statistics office.
+
+Sample Records:
+<img src='excel2.png' width='1000'>
+
+Possible challenges: The crime dataset includes data for individual years, while the labor force dataset only provides data for specific census years. Aligning the datasets temporally for direct comparisons might be challenging.
 
 ## Project 2
 - **Introduction:** Clear problem statement and context.
