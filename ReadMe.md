@@ -73,7 +73,7 @@ Overview: This dataset contains Irish crime statistics for the years 2003Q1 to 2
 
 Data Source: data.gov.ie/cso.ie
 
-Data Structure: The dataset consists of 161,029 rows and five columns: 'Quarter,' 'Garda Division,' 'Type of Offence,' 'UNIT,' and 'VALUE.' The 'Quarter' column indicates the time period, 'Garda Division' represents geographic regions, 'Type of Offence' categorizes crime types, and 'VALUE' denotes the reported incidents of crime.
+Data Structure: The dataset consists of 161,029 rows and five columns
 
 Data Fields:
 
