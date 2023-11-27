@@ -21,8 +21,8 @@ Final Year BSc Student SETU Carlow<br>
 <img src='profile1.jpg' width='400'>
 
 Find more information about me here:
-- [GitHub](https://github.com/Sebastian-Firsaev)
-- [LinkedIn](https://www.linkedin.com/in/sebfirs/)
+- [GitHub](https://external.ink?to=github.com/Sebastian-Firsaev)
+- [LinkedIn](https://external.ink?to=www.linkedin.com/in/sebfirs/)
 
 # Education
 - Bachelor of Science in Data Science
@@ -109,7 +109,7 @@ The utility and significance of this portfolio are rooted in its potential to co
 
 **Portfolio Design:** 
 <br>
-Tools and Techniques: The project utilizes [Python](https://www.python.org/) as the primary programming language and employs popular data science libraries and frameworks like [Pandas](https://pandas.pydata.org/about/), [Seaborn](https://seaborn.pydata.org/), and [NumPy](https://numpy.org/). These tools enable data manipulation, predictive modeling, and data visualization. 
+Tools and Techniques: The project utilizes [Python](https://external.ink?to=www.python.org/) as the primary programming language and employs popular data science libraries and frameworks like [Pandas](https://external.ink?to=pandas.pydata.org/about/), [Seaborn](https://external.ink?to=seaborn.pydata.org/), and [NumPy](https://external.ink?to=numpy.org/). These tools enable data manipulation, predictive modeling, and data visualization. 
 <br>
 
 **Technologies Used:** 
@@ -195,7 +195,7 @@ Infanticide is a very extreme type of crime, and it would indicate serious socie
 I believe that low and high crime rate garda divisions represent population density, with the two extremes being represented on both sides with Dublin being the highest and longform/Roscommon being the lowest. 
 
 ## Crime In Carlow/Kilkenny Garda Division 
-To answer the question if students have an impact on crime within Carlow i decided to first breakdown the original dataset to just focus on the Carlow/Kilkenny Garda Division. It is important to note that outside factors can also have an effect of crime, for example Crime rates in carlow can also be affected by the fact that [Kilkenny/Carlow one of only three garda divisions with no current Crime Prevention Officer](https://www.kilkennypeople.ie/news/local-news/1297412/kilkenny-carlow-one-of-only-three-garda-divisions-with-no-crime-prevention-officer.html).   
+To answer the question if students have an impact on crime within Carlow i decided to first breakdown the original dataset to just focus on the Carlow/Kilkenny Garda Division. It is important to note that outside factors can also have an effect of crime, for example Crime rates in carlow can also be affected by the fact that [Kilkenny/Carlow one of only three garda divisions with no current Crime Prevention Officer](https://external.ink?to=www.kilkennypeople.ie/news/local-news/1297412/kilkenny-carlow-one-of-only-three-garda-divisions-with-no-crime-prevention-officer.html).   
   
     kilkenny_carlow_data = data[data['Garda Division'] == 'Kilkenny/Carlow Garda Division']
     if not kilkenny_carlow_data.empty:
@@ -207,7 +207,7 @@ To answer the question if students have an impact on crime within Carlow i decid
         print("The most valuable crime in Kilkenny/Carlow Garda Division is:", most_valuable_crime['Type of Offence'])  
   
   
-I found that the most numerous crime was theft. This is also commonly reported in local [news articles](https://www.carlowlive.ie/news/home/1312571/breaking-carlow-hit-by-weekend-crime-spree-as-string-of-burglaries-shake-community.html)
+I found that the most numerous crime was theft. This is also commonly reported in local [news articles](https://external.ink?to=www.carlowlive.ie/news/home/1312571/breaking-carlow-hit-by-weekend-crime-spree-as-string-of-burglaries-shake-community.html)
 I then filtered for crimes that would be most associated with students "theft from shop and drug offenses". and exported this to a separate dataset file. 
 
     if not data.empty:
@@ -281,7 +281,7 @@ Possible challenges: The crime dataset includes data for individual years, while
 ## Project 2 - Decision Trees and Random Forests
 - All code for this project is not my own and is being used for learning purposes. Source can be found here: https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb
 ### Introduction
-This project focuses on the comprehensive exploration of decision trees and random forests. It offers an educational journey into their workings and applications. Through practical implementations using Scikit-Learn in Python, I'll cover decision tree visualization, the challenge of overfitting, the concept of ensemble methods, and the versatility of random forests in classification and regression tasks. I aim to uncover the intricacies, strengths, and practical implications of decision trees and random forests in the realm of machine learning. I recreated the project in my own [Jyputer notebook](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/treeproject.ipynb) for learning purposes
+This project focuses on the comprehensive exploration of decision trees and random forests. It offers an educational journey into their workings and applications. Through practical implementations using Scikit-Learn in Python, I'll cover decision tree visualization, the challenge of overfitting, the concept of ensemble methods, and the versatility of random forests in classification and regression tasks. I aim to uncover the intricacies, strengths, and practical implications of decision trees and random forests in the realm of machine learning. I recreated the project in my own [Jyputer notebook](https://external.ink?to=github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/treeproject.ipynb) for learning purposes
 
 
 
@@ -304,7 +304,7 @@ Source - https://www.kaggle.com/datasets/yasserh/wine-quality-dataset/
 Wine Quality Prediction Using Random Forest Classifier
 Objective: The objective of this mini project was to create a predictive model to classify the quality of wines based on certain features using a Random Forest Classifier.
 #### Data  
-The dataset was explored and displayed using the following imported libraries: [Matplotlib](https://matplotlib.org/), Seaborn,[Pandas](https://pandas.pydata.org/about/), [Seaborn](https://seaborn.pydata.org/), [NumPy](https://numpy.org/) and [Scikit-Learn](https://scikit-learn.org/stable/). 
+The dataset was explored and displayed using the following imported libraries: [Matplotlib](https://external.ink?to=matplotlib.org/), Seaborn,[Pandas](https://external.ink?to=pandas.pydata.org/about/), [Seaborn](https://external.ink?to=seaborn.pydata.org/), [NumPy](https://external.ink?to=numpy.org/) and [Scikit-Learn](https://external.ink?to=scikit-learn.org/stable/). 
 
 The dataset ('wineQT.csv') was loaded into a Pandas DataFrame. The target variable was identified as “quality”. The data was features X and the target variable y, dropping the 'quality' column from the features. And a train-test split (80-20) was made to create training and testing datasets.
 
