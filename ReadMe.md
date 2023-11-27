@@ -167,6 +167,7 @@ Continuing the analysis, the focus shifted to examining the distribution of over
 
 <img src='graph2.png' width='1000'>
 This visualization allows us to discern how overall crime is distributed among different Garda Divisions in Ireland.
+
 <br>
 **Summary of findings:**
 <br>
@@ -178,6 +179,7 @@ Least popular type of crime overall: Infanticide
 
 Garda Division with the most crime for all years: D.M.R. North Central Garda Division
 Garda Division with the least crime for all years: Roscommon/Longford Garda Division
+
 <br>
 **Conclusions of findings:**
 <br>
