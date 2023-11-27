@@ -114,7 +114,7 @@ Tools and Techniques: The project utilizes [Python](https://external.ink?to=www.
 
 **Technologies Used:** 
 <br>
-Technologies: The portfolio incorporates [Jupyter Notebook](https://jupyter.org/) and Visual Studio Code as the primary development environments. Jupyter Notebook facilitates interactive data analysis and report generation, while Visual Studio Code offers a comprehensive coding environment for more extensive data analysis and modeling tasks. All jupyter note books with the code can be found in this github repository.  
+Technologies: The portfolio incorporates [Jupyter Notebook](https://external.ink?to=jupyter.org/) and Visual Studio Code as the primary development environments. Jupyter Notebook facilitates interactive data analysis and report generation, while Visual Studio Code offers a comprehensive coding environment for more extensive data analysis and modeling tasks. All jupyter note books with the code can be found in this github repository.  
 <br>
 
 **Current Progress** 
