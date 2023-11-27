@@ -119,7 +119,7 @@ Technologies: The portfolio incorporates [Jupyter Notebook](https://external.ink
 
 **Current Progress** 
 <br>
-This report presents an exploratory data analysis and visualization of Irish crime statistics. The objective is to gain insights into historical crime trends, focusing on overall crime regardless of type, and to examine how crime varies across different yearly quarters and Garda divisions in Ireland 2003-2023. later focusing on the Carlow/Kilkenny area. This analysis is conducted using Python within a Jupyter Notebook environment.
+This report presents an exploratory data analysis and visualization of Irish crime statistics. The objective is to gain insights into historical crime trends, focusing on overall crime regardless of type, and to examine how crime varies across different yearly quarters and Garda divisions in Ireland 2003-2023. later focusing on the Carlow/Kilkenny area. This analysis is conducted using Python within a Jupyter Notebook environment. The notebook containing the code can be found [here](https://external.ink?to=github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/crimeproject.ipynb)
 <br>
 
 **Exploratory Data Analysis:**
