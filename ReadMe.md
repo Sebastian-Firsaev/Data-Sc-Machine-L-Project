@@ -26,7 +26,7 @@ Find more information about me here:
 
 # Education
 - Bachelor of Science in Data Science
-  - University Name: [SETU Carlow](https://www.setu.ie/)
+  - University Name: [SETU Carlow](https://external.setu.ie/)
   - Graduation Date: 2024
 
 # Skills
