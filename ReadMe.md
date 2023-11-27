@@ -169,9 +169,11 @@ Continuing the analysis, the focus shifted to examining the distribution of over
 This visualization allows us to discern how overall crime is distributed among different Garda Divisions in Ireland.
 
 <br>
+
 **Summary of findings:**
 <br>
 Year with the most crime: 2008
+<br>
 Year with the least crime: 2021
 
 Most popular type of crime every year: Theft and related offences
@@ -181,6 +183,7 @@ Garda Division with the most crime for all years: D.M.R. North Central Garda Div
 Garda Division with the least crime for all years: Roscommon/Longford Garda Division
 
 <br>
+
 **Conclusions of findings:**
 <br>
 The years with the most and least crime seem to make a lot of sense as they both correspond with major global events that would logically have a large impact on crime. That being the global financial crash of 2008, causing a large amount of people to lose their homes and sources of income. This would have contributed to crimes such as theft as people with no income would be more likely to steal.
