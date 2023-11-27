@@ -132,28 +132,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-Load data from Excel
-<br>
-data = pd.read_excel("Irish crime data.xlsx")
-<br>
-Group by Quarter and sum the 'VALUE' column to calculate overall crime
-overall_crime = data.groupby('Quarter')['VALUE'].sum().reset_index()
-<br>
-plt.figure(figsize=(20, 10))
-<br>
-plt.plot(overall_crime['Quarter'], overall_crime['VALUE'], marker='o', linestyle='-', color='b')
-<br>
-plt.xlabel('Quarter')
-<br>
-plt.ylabel('Overall Crime')
-<br>
-plt.title('Overall Crime by Quarter')
-<br>
-plt.xticks(rotation=45)
-<br>
-plt.grid()
-<br>
-plt.show()
+  Load data from Excel
+  data = pd.read_excel("Irish crime data.xlsx")
+  Group by Quarter and sum the 'VALUE' column to calculate overall crime
+  overall_crime = data.groupby('Quarter')['VALUE'].sum().reset_index()
+  plt.figure(figsize=(20, 10))
+  plt.plot(overall_crime['Quarter'], overall_crime['VALUE'], marker='o', linestyle='-', color='b')
+  plt.xlabel('Quarter')
+  plt.ylabel('Overall Crime')
+  plt.title('Overall Crime by Quarter')
+  plt.xticks(rotation=45)
+  plt.grid()
+  plt.show()
 <br>
 
 <img src='graph1.png' width='1000'>
@@ -163,27 +153,17 @@ This initial visualization provides insights into how overall crime has varied o
 
 Continuing the analysis, the focus shifted to examining the distribution of overall crime by Garda Division, as different geographic regions may have varying crime rates. The code below groups the data by Garda Division and calculates the overall crime in each division. It creates a bar plot to visualize these results:
 
-overall_crime_by_division = data.groupby('Garda Division')['VALUE'].sum().reset_index()
-<br>
-Create a bar plot to visualize overall crime by Garda Division
-<br>
-plt.figure(figsize=(12, 6))
-<br>
-plt.bar(overall_crime_by_division['Garda Division'],
-<br>
-overall_crime_by_division['VALUE'])
-<br>
-plt.xlabel('Garda Division')
-<br>
-plt.ylabel('Overall Crime')
-<br>
-plt.title('Overall Crime by Garda Division')
-<br>
-plt.xticks(rotation=90)
-<br>
-plt.grid(axis='y')
-<br>
-plt.show()
+  overall_crime_by_division = data.groupby('Garda Division')['VALUE'].sum().reset_index()
+  Create a bar plot to visualize overall crime by Garda Division
+  plt.figure(figsize=(12, 6))
+  plt.bar(overall_crime_by_division['Garda Division'],
+  overall_crime_by_division['VALUE'])
+  plt.xlabel('Garda Division')
+  plt.ylabel('Overall Crime')
+  plt.title('Overall Crime by Garda Division')
+  plt.xticks(rotation=90)
+  plt.grid(axis='y')
+  plt.show()
 
 <img src='graph2.png' width='1000'>
 This visualization allows us to discern how overall crime is distributed among different Garda Divisions in Ireland.
