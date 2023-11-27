@@ -255,7 +255,7 @@ Possible challenges: The crime dataset includes data for individual years, while
 ## Project 2 - Decision Trees and Random Forests
 - All code for this project is not my own and is being used for learning purposes. Source can be found here: https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb
 ### Introduction
-This project focuses on the comprehensive exploration of decision trees and random forests. It offers an educational journey into their workings and applications. Through practical implementations using Scikit-Learn in Python, I'll cover decision tree visualization, the challenge of overfitting, the concept of ensemble methods, and the versatility of random forests in classification and regression tasks. I aim to uncover the intricacies, strengths, and practical implications of decision trees and random forests in the realm of machine learning.
+This project focuses on the comprehensive exploration of decision trees and random forests. It offers an educational journey into their workings and applications. Through practical implementations using Scikit-Learn in Python, I'll cover decision tree visualization, the challenge of overfitting, the concept of ensemble methods, and the versatility of random forests in classification and regression tasks. I aim to uncover the intricacies, strengths, and practical implications of decision trees and random forests in the realm of machine learning. I recreated the project in my own [Jyputer notebook](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/treeproject.ipynb) for learning purposes
 
 
 
