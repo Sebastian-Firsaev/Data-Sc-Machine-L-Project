@@ -7,6 +7,7 @@
 - [Programming Technologies](#programming-technologies) 
 - [Data Storage](#data-storage)
 - [Professional Projects](#professional-projects)
+  - [Algorithm Notebooks](#Data-science-Notebooks-covering-various-machine-learning-algorithms)
   - [Irish crime project](#Irish-Crime-Statistics)
   - [Decision Trees and Random Forests](#Decision-Trees-and-Random-Forests)
   - [Project 3](#project-3)
