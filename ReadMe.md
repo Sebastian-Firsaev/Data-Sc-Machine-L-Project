@@ -63,17 +63,22 @@ Find more information about me here:
 ## Data science Notebooks covering various machine learning algorithms
 
 [Naive Bayes Classification](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/NaiveBayes01.ipynb)
+<br>
 [Deployment for Bayes]( http://c00263348.pythonanywhere.com/)
+<br>
 [Support Vector Machines](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/SupportVectorMachines01.ipynb)
+<br>
 [K Nearest Neighbour Classifier](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/KNearestNeighbour01.ipynb)
+<br>
 [K Means Cluster](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/KMeansClustering01.ipynb)
+<br>
 
 
 ## Irish Crime Statistics 
 
 <br>
 
-# Does the univerity in Carlow have an impact on crime in the county?
+## Does the univerity in Carlow have an impact on crime in the county?
 <br>
 **Introduction:** 
 <br>
