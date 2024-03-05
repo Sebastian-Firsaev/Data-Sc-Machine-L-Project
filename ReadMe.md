@@ -58,6 +58,17 @@ Find more information about me here:
 * Github
 
 # Professional Projects 
+
+
+## Data science Notebooks covering various machine learning algorithms
+
+[Naive Bayes Classification](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/NaiveBayes01.ipynb)
+[Deployment for Bayes]( http://c00263348.pythonanywhere.com/)
+[Support Vector Machines](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/SupportVectorMachines01.ipynb)
+[K Nearest Neighbour Classifier](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/KNearestNeighbour01.ipynb)
+[K Means Cluster](https://github.com/Sebastian-Firsaev/Data-Sc-Machine-L-Project/blob/main/Semester%202%20notebooks/KMeansClustering01.ipynb)
+
+
 ## Irish Crime Statistics 
 
 <br>
